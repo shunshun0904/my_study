@@ -1,0 +1,1573 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.14)  8 JUL 2020 22:36
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**chapter_6.tex
+(./chapter_6.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+(/usr/local/texlive/2020/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+
+/usr/local/texlive/2020/texmf-dist/tex/platex/jsclasses/jsarticle.cls:26: LaTeX
+ Error: This file needs format `pLaTeX2e'
+               but this is `LaTeX2e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \NeedsTeXFormat{pLaTeX2e}
+                              
+The current input file will not be processed further,
+because it was written for some other flavor of TeX.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen134
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen135
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count167
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count168
+\leftroot@=\count169
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count170
+\DOTSCASE@=\count171
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen136
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count172
+\c@MaxMatrixCols=\count173
+\dotsspace@=\muskip16
+\c@parentequation=\count174
+\dspbrk@lvl=\count175
+\tag@help=\toks18
+\row@=\count176
+\column@=\count177
+\maxfields@=\count178
+\andhelp@=\toks19
+\eqnshift@=\dimen137
+\alignsep@=\dimen138
+\tagshift@=\dimen139
+\tagwidth@=\dimen140
+\totwidth@=\dimen141
+\lineht@=\dimen142
+\@envbody=\toks20
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ascmac/ascmac.sty
+Package: ascmac 2020/01/15 v2.1 ascmac wrapper (community edition) 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ascmac/tascmac.sty
+Package: tascmac 2020/01/15 v2.1 ascmac package (community edition) 
+Package tascmac Info: Assuming pdfLaTeX, XeLaTeX or LuaLaTeX on input line 44.
+\scb@x=\box47
+\scscb@x=\box48
+\@bw=\dimen143
+\@nbox=\box49
+\@nbody=\box50
+\@scw=\dimen144
+\ascmac@hoboxa=\box51
+\ascmac@hoboxb=\box52
+\@itemh=\dimen145
+\@iboxpos=\toks22
+\@iboxstr=\box53
+\@bwsp=\box54
+\@@bwsp=\box55
+\@bcal=\count179
+\shaderule=\dimen146
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks29
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count180
+\l__pdf_internal_box=\box56
+)
+(./chapter_6.aux)
+\openout1 = `chapter_6.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+
+./chapter_6.tex:9: LaTeX Error: The font size command \normalsize is not define
+d:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \begin{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./chapter_6.tex:14: Undefined control sequence.
+l.14 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapter_6.tex:15: LaTeX Error: No counter 'section' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \setcounter{section}{-1}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./chapter_6.tex:17: Undefined control sequence.
+l.17 \section
+             {概要}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapter_6.tex:17: Package inputenc Error: Unicode character 概 (U+6982)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \section{概
+                 要}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:17: Package inputenc Error: Unicode character 要 (U+8981)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \section{概要
+                    }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character デ (U+30C7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 デ
+        ータを分析する際、一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 デー
+           タを分析する際、一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character タ (U+30BF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データ
+              を分析する際、一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを
+                 分析する際、一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 分 (U+5206)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分
+                    析する際、一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 析 (U+6790)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析
+                       する際、一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character す (U+3059)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析す
+                          る際、一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析する
+                             際、一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 際 (U+969B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析する際
+                                、一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析する際、
+                                   一般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析する際、一
+                                      般的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 般 (U+822C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析する際、一般
+                                         的に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析する際、一般的
+                                            に分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析する際、一般的に
+                                               分析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 分 (U+5206)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 データを分析する際、一般的に分
+                                                  析対象であるデー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 析 (U+6790)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...タを分析する際、一般的に分析
+                                                  対象であるデータ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 対 (U+5BFE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...を分析する際、一般的に分析対
+                                                  象であるデータの�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 象 (U+8C61)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...分析する際、一般的に分析対象
+                                                  であるデータの中�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character で (U+3067)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...析する際、一般的に分析対象で
+                                                  あるデータの中身�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character あ (U+3042)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...する際、一般的に分析対象であ
+                                                  るデータの中身を�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...る際、一般的に分析対象である
+                                                  データの中身を把�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character デ (U+30C7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...際、一般的に分析対象であるデ
+                                                  ータの中身を把握�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...、一般的に分析対象であるデー
+                                                  タの中身を把握す�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character タ (U+30BF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...一般的に分析対象であるデータ
+                                                  の中身を把握する�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...般的に分析対象であるデータの
+                                                  中身を把握するた�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 中 (U+4E2D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...的に分析対象であるデータの中
+                                                  身を把握するため�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 身 (U+8EAB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...に分析対象であるデータの中身
+                                                  を把握するための�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...分析対象であるデータの中身を
+                                                  把握するための手�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 把 (U+628A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...析対象であるデータの中身を把
+                                                  握するための手段�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 握 (U+63E1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...対象であるデータの中身を把握
+                                                  するための手段と�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character す (U+3059)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...象であるデータの中身を把握す
+                                                  るための手段とし�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...であるデータの中身を把握する
+                                                  ための手段として�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character た (U+305F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...あるデータの中身を把握するた
+                                                  めの手段として基�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character め (U+3081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...るデータの中身を把握するため
+                                                  の手段として基礎�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...データの中身を把握するための
+                                                  手段として基礎的�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 手 (U+624B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ータの中身を把握するための手
+                                                  段として基礎的な�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 段 (U+6BB5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...タの中身を把握するための手段
+                                                  として基礎的な集�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character と (U+3068)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...の中身を把握するための手段と
+                                                  して基礎的な集計^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...中身を把握するための手段とし
+                                                  て基礎的な集計^^\(�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character て (U+3066)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...身を把握するための手段として
+                                                  基礎的な集計^^\(以�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 基 (U+57FA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...を把握するための手段として基
+                                                  礎的な集計^^\(以下�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 礎 (U+790E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...把握するための手段として基礎
+                                                  的な集計^^\(以下、�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...握するための手段として基礎的
+                                                  な集計^^\(以下、基�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character な (U+306A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...するための手段として基礎的な
+                                                  集計^^\(以下、基礎�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 集 (U+96C6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...るための手段として基礎的な集
+                                                  計^^\(以下、基礎集�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 計 (U+8A08)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ための手段として基礎的な集計
+                                                  ^^\(以下、基礎集計)...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character ^^\ (U+001C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...めの手段として基礎的な集計^^\
+                                                  (以下、基礎集計)を...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 以 (U+4EE5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��手段として基礎的な集計^^\(以
+                                                  下、基礎集計)を実�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 下 (U+4E0B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��段として基礎的な集計^^\(以下
+                                                  、基礎集計)を実施�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��として基礎的な集計^^\(以下、
+                                                  基礎集計)を実施す�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 基 (U+57FA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��して基礎的な集計^^\(以下、基
+                                                  礎集計)を実施する�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 礎 (U+790E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��て基礎的な集計^^\(以下、基礎
+                                                  集計)を実施するこ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 集 (U+96C6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��基礎的な集計^^\(以下、基礎集
+                                                  計)を実施すること�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 計 (U+8A08)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��礎的な集計^^\(以下、基礎集計
+                                                  )を実施することが�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...�的な集計^^\(以下、基礎集計)を
+                                                  実施することが多�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 実 (U+5B9F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...�な集計^^\(以下、基礎集計)を実
+                                                  施することが多い�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 施 (U+65BD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...�集計^^\(以下、基礎集計)を実施
+                                                  することが多いが�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character す (U+3059)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...�計^^\(以下、基礎集計)を実施す
+                                                  ることが多いが、�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...�^^\(以下、基礎集計)を実施する
+                                                  ことが多いが、単�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character こ (U+3053)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...\(以下、基礎集計)を実施するこ
+                                                  とが多いが、単純�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character と (U+3068)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��下、基礎集計)を実施すること
+                                                  が多いが、単純に�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character が (U+304C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��、基礎集計)を実施することが
+                                                  多いが、単純にい�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 多 (U+591A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��基礎集計)を実施することが多
+                                                  いが、単純にいく�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character い (U+3044)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��礎集計)を実施することが多い
+                                                  が、単純にいくつ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character が (U+304C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��集計)を実施することが多いが
+                                                  、単純にいくつか�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��計)を実施することが多いが、
+                                                  単純にいくつかの�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 単 (U+5358)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...��)を実施することが多いが、単
+                                                  純にいくつかの特�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 純 (U+7D14)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...を実施することが多いが、単純
+                                                  にいくつかの特徴�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...実施することが多いが、単純に
+                                                  いくつかの特徴量�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character い (U+3044)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...施することが多いが、単純にい
+                                                  くつかの特徴量を�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character く (U+304F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...することが多いが、単純にいく
+                                                  つかの特徴量を縦�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character つ (U+3064)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ることが多いが、単純にいくつ
+                                                  かの特徴量を縦軸�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character か (U+304B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ことが多いが、単純にいくつか
+                                                  の特徴量を縦軸な�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...とが多いが、単純にいくつかの
+                                                  特徴量を縦軸ない�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 特 (U+7279)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...が多いが、単純にいくつかの特
+                                                  徴量を縦軸ないし�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 徴 (U+5FB4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...多いが、単純にいくつかの特徴
+                                                  量を縦軸ないしは�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 量 (U+91CF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...いが、単純にいくつかの特徴量
+                                                  を縦軸ないしは横�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...が、単純にいくつかの特徴量を
+                                                  縦軸ないしは横軸�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 縦 (U+7E26)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...、単純にいくつかの特徴量を縦
+                                                  軸ないしは横軸に�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 軸 (U+8EF8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...単純にいくつかの特徴量を縦軸
+                                                  ないしは横軸に置�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character な (U+306A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...純にいくつかの特徴量を縦軸な
+                                                  いしは横軸に置き�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character い (U+3044)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...にいくつかの特徴量を縦軸ない
+                                                  しは横軸に置き、�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...いくつかの特徴量を縦軸ないし
+                                                  は横軸に置き、サ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...くつかの特徴量を縦軸ないしは
+                                                  横軸に置き、サン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 横 (U+6A2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...つかの特徴量を縦軸ないしは横
+                                                  軸に置き、サンプ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 軸 (U+8EF8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...かの特徴量を縦軸ないしは横軸
+                                                  に置き、サンプル�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...の特徴量を縦軸ないしは横軸に
+                                                  置き、サンプル間�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 置 (U+7F6E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...特徴量を縦軸ないしは横軸に置
+                                                  き、サンプル間に�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character き (U+304D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...徴量を縦軸ないしは横軸に置き
+                                                  、サンプル間にお�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...量を縦軸ないしは横軸に置き、
+                                                  サンプル間におけ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character サ (U+30B5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...を縦軸ないしは横軸に置き、サ
+                                                  ンプル間における�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character ン (U+30F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...縦軸ないしは横軸に置き、サン
+                                                  プル間における分�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./chapter_6.tex:18: Package inputenc Error: Unicode character プ (U+30D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...軸ないしは横軸に置き、サンプ
+                                                  ル間における分布�...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 1561 strings out of 480478
+ 21373 string characters out of 5899595
+ 258017 words of memory out of 5000000
+ 17612 multiletter control sequences out of 15000+600000
+ 532434 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,1n,27p,643b,38s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+./chapter_6.tex:18:  ==> Fatal error occurred, no output PDF file produced!
